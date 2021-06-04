@@ -3,12 +3,16 @@
 
 ```html
 <!-- For making button toggle -->
+
 <input type="checkbox" id="menu">
 ```
 
 ```css
 /*Click CSS*/
+
 #menu::checked {
+
 /* all effects here */
+
 }
 ```
